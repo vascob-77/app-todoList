@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vascob-77/app-todoList/static/css/main.7530e868.chunk.css",
+    "main.js": "/vascob-77/app-todoList/static/js/main.7897e93e.chunk.js",
+    "main.js.map": "/vascob-77/app-todoList/static/js/main.7897e93e.chunk.js.map",
+    "runtime-main.js": "/vascob-77/app-todoList/static/js/runtime-main.6f1cc910.js",
+    "runtime-main.js.map": "/vascob-77/app-todoList/static/js/runtime-main.6f1cc910.js.map",
+    "static/js/2.290f6c76.chunk.js": "/vascob-77/app-todoList/static/js/2.290f6c76.chunk.js",
+    "static/js/2.290f6c76.chunk.js.map": "/vascob-77/app-todoList/static/js/2.290f6c76.chunk.js.map",
+    "static/js/3.eb26e14d.chunk.js": "/vascob-77/app-todoList/static/js/3.eb26e14d.chunk.js",
+    "static/js/3.eb26e14d.chunk.js.map": "/vascob-77/app-todoList/static/js/3.eb26e14d.chunk.js.map",
+    "index.html": "/vascob-77/app-todoList/index.html",
+    "static/css/main.7530e868.chunk.css.map": "/vascob-77/app-todoList/static/css/main.7530e868.chunk.css.map",
+    "static/js/2.290f6c76.chunk.js.LICENSE.txt": "/vascob-77/app-todoList/static/js/2.290f6c76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f1cc910.js",
+    "static/js/2.290f6c76.chunk.js",
+    "static/css/main.7530e868.chunk.css",
+    "static/js/main.7897e93e.chunk.js"
+  ]
+}
